@@ -6,7 +6,7 @@
 | email    | string   | null:false   |
 | encrypted_password | string   | null:false   |
 | profile   | text   | null:false   |
-| position | string  | null:false   |
+| position | text  | null:false   |
 | accupation| text |  null:false | 
 ### association
 - has_many :comments
